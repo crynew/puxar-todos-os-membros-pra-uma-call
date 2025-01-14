@@ -1,6 +1,6 @@
 # Discord Selfbot - Mover Membros em Call
 
-Este projeto é um **selfbot** feito para mover todos os membros que estiverem em uma call para outra call específica em um servidor do Discord.
+Este projeto é um **selfbot** feito para mover todos os membros que estiverem em call para uma call específica em um servidor do Discord.
 
 > **Atenção:** O uso de selfbots vai contra os Termos de Serviço do Discord e pode levar ao banimento da sua conta. Use por sua conta e risco.
 
