@@ -28,11 +28,7 @@ Este projeto é um **selfbot** feito para mover todos os membros que estiverem e
    ```bash
    npm install discord.js-selfbot-v13
    ```
-
-3. **Criar o arquivo do bot**
-   Crie um arquivo chamado `index.js` e implemente a lógica para mover os membros entre as calls.
-
-4. **Obtenha o token da sua conta**
+3. **Obtenha o token da sua conta**
    Para que o selfbot funcione, você precisará do token da sua conta do Discord. **Não compartilhe este token com ninguém!**
 
 ---
